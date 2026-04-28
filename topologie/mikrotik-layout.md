@@ -55,8 +55,7 @@ Internet          IT Customer
 
 
 
-> [!TIP]
-> Config Template
+> [!TIP] Config Template
 > 
 > [RouterOS Template v1.4][def] — firewall completo, VLAN, Hotspot, logging.
 
