@@ -45,14 +45,21 @@ Internet          IT Customer
  PLC · HMI · 3°pt    PLC · HMI · 3°pt
 ```
 
-| Feature | Dettaglio |
-|---|---|
-| Hardware | RB5009UG+S+IN + CSS610-8G-2S+IN |
-| Throughput | 10Gbps dorsali DAC SFP+ |
-| Wi-Fi | mAP lite su VLAN 300 con Captive Portal |
-| Gestione | REST API + `.rsc` — Infrastructure as Code |
-| OPEX | **Zero licenze** |
+| Feature    | Dettaglio                                  |
+| ---------- | ------------------------------------------ |
+| Hardware   | RB5009UG+S+IN + CSS610-8G-2S+IN            |
+| Throughput | 10Gbps dorsali DAC SFP+                    |
+| Wi-Fi      | mAP lite su VLAN 300 con Captive Portal    |
+| Gestione   | REST API + `.rsc` — Infrastructure as Code |
+| OPEX       | **Zero licenze**                           |
 
-:::tip Config Template
-→ [RouterOS Template v1.4](../config/routeros-template) — firewall completo, VLAN, Hotspot, logging.
-:::
+
+
+> [!TIP]
+> Config Template
+> 
+> [RouterOS Template v1.4][def] — firewall completo, VLAN, Hotspot, logging.
+
+
+
+[def]: ../config/routeros-template
